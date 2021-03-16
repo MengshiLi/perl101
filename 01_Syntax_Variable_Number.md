@@ -1,4 +1,4 @@
-### Syntax
+### 1) Syntax
 	
 #### Variables:
 - No explicit type declaration.
@@ -31,7 +31,7 @@
     - No need to add `\` for new lines
 
 
-### Variables:
+### 2) Variables:
 #### Types:
 - Scalars: numbers and strings
 - Lists
@@ -56,7 +56,7 @@
 - Variables in double-quoted strings are interpolated, i.e. transform its value (NOT its name) into string.
 
 
-### Numbers
+### 3) Numbers
 #### Integers
 - Big number seperator: `_`
     - e.g. `$big_data = 123_456_789;`
